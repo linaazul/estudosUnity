@@ -11,6 +11,7 @@ Repositório dedicado ao aprendizado e experimentação com Unity, contendo exem
 | `TesteVariavel.cs` | Exemplos de variáveis em Unity (Aula 6) |
 | `Variaveis.cs` | Estudo sobre variáveis em Unity (Aula 6) |
 | `inimigo.cs` | Implementação de variável estática |
+| `testeIfElse.cs` | Sintaxe if, else e diferentes Inputs |
 
 ## 🚀 Objetivo
 
