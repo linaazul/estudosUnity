@@ -12,6 +12,8 @@ Repositório dedicado ao aprendizado e experimentação com Unity, contendo exem
 | `Variaveis.cs` | Estudo sobre variáveis em Unity (Aula 6) |
 | `inimigo.cs` | Implementação de variável estática |
 | `testeIfElse.cs` | Sintaxe if, else e diferentes Inputs |
+| `LoopsTeste.cs` | Como fazer while em C# |
+| `ForTeste.cs` | Uso de for em C# |
 
 ## 🚀 Objetivo
 
