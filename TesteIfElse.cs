@@ -15,9 +15,9 @@ public class TesteIfElse : MonoBehaviour
     private void Update()
     {
         //Formas de identificar um input:
-        //input.GetKeyDown ---> Caso o usuário apertou uma tecla
+        //input.GetKeyDown ---> Caso o usuï¿½rio apertou uma tecla
         //input.GetKey ---> Caso usuario esteja segurando uma tecla
-        //input.GetKeyUp ---> Caso o usuário soltou uma tecla
+        //input.GetKeyUp ---> Caso o usuï¿½rio soltou uma tecla
 
         if (Input.GetKeyDown(KeyCode.X))
         {
@@ -26,7 +26,7 @@ public class TesteIfElse : MonoBehaviour
         
         if(Input.GetKey(KeyCode.Z))
         {
-            Debug.Log("Z está sendo pressionado.");
+            Debug.Log("Z estï¿½ sendo pressionado.");
         }
 
         if(Input.GetKeyUp(KeyCode.C))
@@ -36,10 +36,10 @@ public class TesteIfElse : MonoBehaviour
 
         //if (luz.enabled == false)
         //{
-        //    Debug.Log("Luz não está ativa.");
+        //    Debug.Log("Luz nï¿½o estï¿½ ativa.");
         //}else if(luz.enabled == true)
         //{
-        //    Debug.Log("Luz está ativa.");
+        //    Debug.Log("Luz estï¿½ ativa.");
         //}
 
         //if (valor > 5)
@@ -54,7 +54,7 @@ public class TesteIfElse : MonoBehaviour
         //if (verdadeiro)
         //{
         //    print("Verdadeiro");
-        //    Debug.Log("é verdadeiro.");
+        //    Debug.Log("ï¿½ verdadeiro.");
         //}
     }
 }
