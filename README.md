@@ -15,6 +15,7 @@ Repositório dedicado ao aprendizado e experimentação com Unity, contendo exem
 | `LoopsTeste.cs` | Como fazer while em C# |
 | `ForTeste.cs` | Uso de for em C# |
 | `VoidsTeste.cs` | Alguns tipos de voids e como criar o meu prórpio |
+| `MétodosTeste.cs` | Entendendo como criar métodos proprios |
 
 ## 🚀 Objetivo
 
