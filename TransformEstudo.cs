@@ -10,19 +10,19 @@ public class TransformEstudo : MonoBehaviour
     {
         //valor.x = 5;
 
-        //ou seja, o transform do objeto selecionado vai ter a posição alterada pelo valor do vector
+        //ou seja, o transform do objeto selecionado vai ter a posiï¿½ï¿½o alterada pelo valor do vector
         objetoTeste.position = valor;
 
         //outra forma de fazer:
         //objetoTeste.position = new Vector3(*valores *);
-        //objetoTeste.position.x -> funciona como comparação mas não funciona para atribuição
+        //objetoTeste.position.x -> funciona como comparaï¿½ï¿½o mas nï¿½o funciona para atribuiï¿½ï¿½o
 
-        // Translar para uma direção
-        // Esse código pede pra ele se mover para a direita
-        // Usar translate não é muito bom pois ele ignora triggers
+        // Translar para uma direï¿½ï¿½o
+        // Esse cï¿½digo pede pra ele se mover para a direita
+        // Usar translate nï¿½o ï¿½ muito bom pois ele ignora triggers
         objetoTeste.Translate(Vector3.right * velocidade);
 
-        //direções:
+        //direï¿½ï¿½es:
         //foward
         //back
         //right
@@ -30,10 +30,10 @@ public class TransformEstudo : MonoBehaviour
         //up
         //down (-up)
         //duas formas de mover objetos:
-        //objetoTeste.Rotate(90 * velocidade, 90 * velocidade, 90 * velocidade);
+        objetoTeste.Rotate(90 * velocidade, 90 * velocidade, 90 * velocidade);
 
         //caso eu queira rotar o objeto de forma imediata
-        //eulerAngles --> seta um valor de rotação
+        //eulerAngles --> seta um valor de rotaï¿½ï¿½o
         objetoTeste.eulerAngles = new Vector3(30, 45, 0);
     }
 }
