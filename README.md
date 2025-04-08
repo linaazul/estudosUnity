@@ -17,6 +17,7 @@ Repositório dedicado ao aprendizado e experimentação com Unity, contendo exem
 | `VoidsTeste.cs` | Alguns tipos de voids e como criar o meu prórpio |
 | `MétodosTeste.cs` | Entendendo como criar métodos proprios |
 | `TransformEstudo.cs` | Estudando transform, translate, rotate e eulerAngles |
+| `ExercicioAula11.cs` | Praticando inputs, translate e rotate |
 
 ## 🚀 Objetivo
 
